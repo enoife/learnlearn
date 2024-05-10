@@ -129,7 +129,7 @@
 }
 .line-{
   position: absolute;
-  margin-left: 250px;
+  margin-left: 300px;
   margin-top: -60px !important;
 }
 .xplore{
@@ -268,7 +268,7 @@
 
 }
 .newsletter_input{
-  width: 346.8px;
+  width: 200px;
   height: 51px;
   top: 88px;
   gap: 0px;
@@ -284,4 +284,17 @@
   text-align: left;
   color: yellow !important;
 
+}
+.courses-link{
+  font-family: DM Sans;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 19.53px;
+  letter-spacing: -0.20454545319080353px;
+  text-align: left;
+
+}
+.condition{
+  display: flex;
+  justify-content: space-between;
 }
