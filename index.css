@@ -298,3 +298,35 @@
   display: flex;
   justify-content: space-between;
 }
+.teams{
+  color: #FFFFFF;
+  font-family: DM Sans;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 19.53px;
+  letter-spacing: -0.20454545319080353px;
+  text-align: left;
+
+}
+.policy{
+  font-family: DM Sans;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 19.53px;
+  letter-spacing: -0.20454545319080353px;
+  text-align: left;
+  color: #FFFFFF;
+}
+.socal_handle{
+  color: #FFFFFF;
+  margin-left: 190px;
+}
+.course-link{
+  color: #FFFFFF;
+  font-family: DM Sans;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 19.53px;
+  letter-spacing: -0.20454545319080353px;
+  text-align: left;
+}
